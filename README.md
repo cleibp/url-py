@@ -24,8 +24,7 @@ Encurtador de url
 
 ```sh
 .
-├── index.js
-├── package.json
+├── main.py
 └── README.md
 ```
 
