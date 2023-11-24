@@ -11,7 +11,7 @@ Encurtador de url
     ### Clonando
 
     ```bash
-    git clone git@github.com:cleibp/poo-node.git
+    git clone git@github.com:cleibp/url-py.git
     ```
 1. Download:
     ### Download Manual
